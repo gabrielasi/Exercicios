@@ -5,7 +5,7 @@ aqui guardarei minhas anotações.
 2. Criar um arquivo no repositório local com o nome casa.txt
 
 3. No arquivo casa.txt insira a seguinte informação: "Criei este arquivo em casa e farei o 
-commit de suas alterações   e em seguida o push orign para o repositorio remoto."
+commit de suas alterações   e em seguida o push origin para o repositorio remoto."
 
 4. Utilizando o github desktop faça o commit do arquivo das alterações.
 
